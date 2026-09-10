@@ -628,9 +628,8 @@ git push
 | Task 5 | Data Visualization | ✅ Completed |
 | Task 6 | Power BI Dashboard | ✅ Completed |
 | Task 7 | Business Insights & Recommendations | ✅ Completed |
-| Task 8 | GitHub Documentation & Presentation | 🔄 In Progress |
+| Task 8 | GitHub Documentation & Presentation | ✅ Completed |
 
-> Task 8 can be marked **Completed** after adding the final project presentation to the repository.
 
 ---
 
