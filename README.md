@@ -1,13 +1,23 @@
 # 📈 NSE Stock Market Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,jupyter,powerbi,git,github&perline=9" alt="Software and tools used in this project" />
+  <img src="https://skillicons.dev/icons?i=python,git,github&perline=9" alt="Python Git GitHub" />
 </p>
 
 <p align="center">
-  <strong>Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter • Power BI • Git • GitHub</strong>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
+<p align="center">
+  <strong>
+    Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter • Power BI • Git • GitHub
+  </strong>
+</p>
 > A real-world stock market data analytics project using Python, Pandas, Matplotlib, Seaborn and Power BI, with Git & GitHub for project version control and documentation.
 
 ---
